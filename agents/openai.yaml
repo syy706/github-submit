@@ -1,0 +1,3 @@
+interface:
+  display_name: "GitHub 建库与提交"
+  short_description: "支持创建新仓库或向已有仓库提交功能，完成推送验证并按需创建 PR"
